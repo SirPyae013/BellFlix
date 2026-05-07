@@ -3,7 +3,7 @@ import React from "react";
 
 const footer = () => {
   return (
-    <footer className="bg-[#1A191F] flex justify-between   flex-nowrap overflow-x-auto whitespace-nowrap h-19 w-full items-center  sm:h-20 xl:h-22  bottom-0  fixed shadow-blue-900 z-5">
+    <footer className="bg-[#1A191F] flex justify-between   flex-nowrap overflow-x-auto whitespace-nowrap h-19 w-full items-center  sm:h-20 xl:h-22  fixed bottom-0 shadow-blue-900 z-5">
       <h1 className="text-xl font-bold tracking-wider text-white sm:text-3xl xl:text-4xl ">
         <span className="text-[#ffb800]">BELL</span>FLIX
       </h1>

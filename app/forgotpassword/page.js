@@ -11,7 +11,7 @@ const page = () => {
     >
       <div className="absolute inset-0 bg-black/75 " />
       {/* //login card */}
-      <form className="bg-[#1A191F] h-90 p-10 w-65 rounded-2xl flex flex-col justify-center gap-3 items-center z-5 lg:w-110 lg:h-100">
+      <form className="bg-[#1A191F] h-90 p-10 w-85 rounded-2xl flex flex-col justify-center gap-3 items-center z-5 lg:w-120 lg:h-100">
         {/* logo, email and password  input */}
         <div className="flex  flex-col items-center justify-center gap-5">
           <h1 className="text-xl font-bold tracking-wider text-white lg:text-3xl ">
